@@ -1,0 +1,3 @@
+SOS Triggered
+Location sent to emergency contacts
+Alert level increased to Level 3
