@@ -1,0 +1,5 @@
+- AI Panic Detection
+- Offline SMS Alerts
+- 3-Level Emergency System
+- Live Location Tracking
+- Community Safety Alerts
